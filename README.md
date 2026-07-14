@@ -19,6 +19,7 @@ Using a supermarket sales dataset from Kaggle, this study performs data cleaning
 ## Dataset
 
 - **Source:** Kaggle Supermarket Sales Dataset
+- **Link:** https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 - **Records:** 1,000 transactions
 - **Features:** 17 original attributes including product line, customer type, city, quantity, unit price, payment method, rating, etc.
 
